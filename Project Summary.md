@@ -31,6 +31,8 @@ Postmates is a quick-commerce and food delivery service company based in San Fra
 The original [Postmates transaction data](https://postmates.com/developer) contains October transactions in New York. The data also includes different time spans throughout the ordering process, the couriers vehicle types, the stores' information and locations and the drop-off places' locations.
 I also leveraged two additional geographic datasets, the New York zip data](https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitude/table/?q=new+york) and [New York neighborhood data](https://www.unitedstateszipcodes.org/) to enable me to map the location latitudes and longitudes into zip codes and neighborhoods.
 
+All data are saved in [Google Sheet](https://docs.google.com/spreadsheets/d/1VyWN_5H-YmwAPNNFMHLxe733YQuLW-zQKwMWBWJcuoY/edit?usp=sharing)
+
 
 ## Algorithms
 **Features Engineering**
